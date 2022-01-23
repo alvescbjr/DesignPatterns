@@ -1,0 +1,16 @@
+{
+    "name": "alvescbjr/strategy",
+    "description": "Conhecendo  o padr\u0000o de projeto Strategy",
+    "authors": [
+        {
+            "name": "Francisco de Assis",
+            "email": "alvescbjr@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\Strategy\\" : "src/"
+        }
+    },
+    "require": {}
+}
