@@ -10,13 +10,18 @@ class ComposerStaticInit3c24861f9f4a2577164706499629b21f
         'D' => 
         array (
             'DesignPattern\\Strategy\\' => 23,
+            'DesignPattern\\ChainOfResponsibility\\' => 36,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
         'DesignPattern\\Strategy\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/Strategy/src',
+        ),
+        'DesignPattern\\ChainOfResponsibility\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/ChainOfResponsibility/src',
         ),
     );
 

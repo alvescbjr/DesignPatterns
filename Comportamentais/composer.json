@@ -9,7 +9,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "DesignPattern\\Strategy\\" : "src/"
+            "DesignPattern\\Strategy\\" : "Strategy/src/",
+            "DesignPattern\\ChainOfResponsibility\\" : "ChainOfResponsibility/src/"
         }
     },
     "require": {}
