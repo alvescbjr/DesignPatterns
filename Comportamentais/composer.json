@@ -11,7 +11,8 @@
         "psr-4": {
             "DesignPattern\\Strategy\\" : "Strategy/src/",
             "DesignPattern\\ChainOfResponsibility\\" : "ChainOfResponsibility/src/",
-            "DesignPattern\\TemplateMethod\\" : "TemplateMethod/src/"
+            "DesignPattern\\TemplateMethod\\" : "TemplateMethod/src/",
+            "DesignPattern\\State\\" : "State/src/"
         }
     },
     "require": {}

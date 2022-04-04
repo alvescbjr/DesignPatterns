@@ -11,6 +11,7 @@ class ComposerStaticInit3c24861f9f4a2577164706499629b21f
         array (
             'DesignPattern\\TemplateMethod\\' => 29,
             'DesignPattern\\Strategy\\' => 23,
+            'DesignPattern\\State\\' => 20,
             'DesignPattern\\ChainOfResponsibility\\' => 36,
         ),
     );
@@ -23,6 +24,10 @@ class ComposerStaticInit3c24861f9f4a2577164706499629b21f
         'DesignPattern\\Strategy\\' => 
         array (
             0 => __DIR__ . '/../..' . '/Strategy/src',
+        ),
+        'DesignPattern\\State\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/State/src',
         ),
         'DesignPattern\\ChainOfResponsibility\\' => 
         array (
